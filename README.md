@@ -6,7 +6,7 @@
 Software Engineer with UI/UX design skills and hands on mobile app development experience, seeking to transition into a dedicated UI/UX design role.
 </br>
 
-**Work Expierence**
+**Work Experience**
 </br>
 As I worked with the Mobile Access team, we faced various accessiblity issues regarding the favorites feature of the application. I was able to contribue, propose, and present them to the SME accessebility team, design and product team. 
 </br>
