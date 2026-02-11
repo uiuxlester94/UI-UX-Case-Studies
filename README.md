@@ -25,7 +25,7 @@ https://docs.google.com/document/d/1Eq8TMfJGcwktikN61YBGAXWn2DkAVhXfenbhUEwQtGY/
 </br>
 I had the oppurtunity to work with a Chicago based therapist to enhanced her website
 </br>
-- Case study to be added - 
+--- Case study to be added --- 
 
 
 
