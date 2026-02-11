@@ -8,7 +8,7 @@ Software Engineer with UI/UX design skills and hands on mobile app development e
 
 **Work Experience**
 </br>
-As I worked with the Mobile Access team, we faced various accessiblity issues regarding the favorites feature of the application. I was able to contribue, propose, and present them to the SME accessebility team, design and product team. 
+As I worked with the Mobile Access team, we faced various accessiblity issues regarding the favorites feature of the application. I was able to contribute, propose, and present them to the SME accessebility team, design and product team. 
 </br>
 
 Color issue
@@ -23,7 +23,7 @@ https://docs.google.com/document/d/1Eq8TMfJGcwktikN61YBGAXWn2DkAVhXfenbhUEwQtGY/
 
 **Projects**
 </br>
-I had the oppurtunity to work with a Chicago based therapist to enhanced her website
+I had the oppurtunity to work with a Chicago based therapist to enhance her website
 </br>
 --- Case study to be added --- 
 
